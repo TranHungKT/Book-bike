@@ -1,0 +1,5 @@
+export const TOO_SHORT = 'fieldTooShort'
+export const TOO_LONG = 'fieldTooLong'
+export const FIELD_REQUIRED = 'fieldRequired'
+export const MATCH_PASSWORD = 'Password must match'
+export const IN_VALID_EMAIL = 'emailInValid'

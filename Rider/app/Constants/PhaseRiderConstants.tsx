@@ -1,0 +1,29 @@
+export enum PhaseRider {
+  NOT_READY = 'NOT_READY',
+  READY_TO_RIDE = 'READY_TO_RIDE',
+  NEED_A_RIDE = 'NEED_A_RIDE',
+  GET_A_RIDE = 'GET_A_RIDE',
+
+  REJECT_RIDE = 'REJECT_RIDE',
+
+  PICK_UP_CUSTOMER = 'PICK_UP_CUSTOMER',
+
+  GET_PACKAGE = 'GET_PACKAGE',
+  GO_TO_DESTINATION = 'GO_TO_DESTINATION',
+
+  SEND_PACKAGE = 'SEND_PACKAGE',
+
+  FINISH_RIDE = 'FINISH_RIDE'
+}
+
+export enum SERVICE {
+  DELIVERY = 'DELIVERY',
+  RIDE = 'RIDE'
+}
+
+export const PhaseRiderInRide = [
+  PhaseRider.PICK_UP_CUSTOMER,
+  PhaseRider.GET_PACKAGE,
+  PhaseRider.GO_TO_DESTINATION,
+  PhaseRider.SEND_PACKAGE
+] as string[]

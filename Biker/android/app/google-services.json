@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "226631502678",
+    "project_id": "coral-box-316206",
+    "storage_bucket": "coral-box-316206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226631502678:android:592e94163f14873d8664f7",
+        "android_client_info": {
+          "package_name": "com.biker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226631502678-jk78piiv33kqkfc8t2u7eun0jjr39e04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9K-qDYKU4-Pa4VLe2-IFGVznJcZ1xI-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226631502678-jk78piiv33kqkfc8t2u7eun0jjr39e04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226631502678:android:b3a264727be698728664f7",
+        "android_client_info": {
+          "package_name": "com.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226631502678-jk78piiv33kqkfc8t2u7eun0jjr39e04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9K-qDYKU4-Pa4VLe2-IFGVznJcZ1xI-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226631502678-jk78piiv33kqkfc8t2u7eun0jjr39e04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
